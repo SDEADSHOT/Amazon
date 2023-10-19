@@ -88,7 +88,7 @@ public class Demo {
 			}
 		}
 		
-	
+	// {POIJGYFUTDXHYIUOP{OIUGYFHDJIOP}{UIGYFHJKL
 //		a.moveToLocation(0, 600);
 //
 //		driver.findElement(By.xpath("//span[contains(text(),'Mobiles & Accessories')]")).click();
